@@ -1,4 +1,4 @@
-Закупа (Красота)
+
 const productPrice1 = window.prompt("Price for 1 item").trim();
 const productPrice2 = window.prompt("Price for 2 item").trim();
 const productPrice3 = window.prompt("Price for 3 item").trim();
